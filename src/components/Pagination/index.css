@@ -1,0 +1,42 @@
+.pagination_container{
+    padding: 20px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+    font-size:28px;
+    line-height: 60px;
+}
+
+.pages{
+    display: flex;
+    flex-direction: row;
+}
+
+.page_no{
+    margin: 0;
+    padding: 0 18px;
+    height: 60px;
+    text-align: center;
+    border: 1px solid #0099ff;
+    border-left:none;
+}
+
+.page_no:first-child{
+    border-left: 1px solid #0099ff;
+}
+
+.page_hidden{
+    margin: 0;
+    padding: 0 18px;
+    height: 60px;
+    text-align: center;
+    border-right: 1px solid #0099ff;
+}
+
+.active{
+    color: #fff !important;
+    background-color: #0099ff;
+    border-color: #0099ff !important;
+}

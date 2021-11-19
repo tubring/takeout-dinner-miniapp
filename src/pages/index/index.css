@@ -1,0 +1,53 @@
+.app {
+    padding: 24px;
+}
+
+.grid{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 24px;
+}
+
+.grid_item{
+    width: 340px;
+    padding: 0 10px;
+    background-color: white;
+    border-radius: 16px;
+    height: 220px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 36px;
+    font-weight: bold;
+    color:blue;
+}
+
+.icon{
+    width: 150px;
+    height: 150px;
+    margin-right: 15px;
+}
+
+.image{
+    width:100%;
+    height:100%;
+}
+
+.block_title{
+    font-size: 32px;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.block_container{
+    margin-top: 24px;
+    margin-bottom: 10px;
+}
+
+.more{
+    font-size: 24px;
+}

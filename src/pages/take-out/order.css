@@ -1,0 +1,25 @@
+.container{
+    padding-bottom: 200px;
+}
+
+
+.confirm{
+    background-color: white;
+    padding: 20px 0;
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.confirm_block{
+    width:50%;
+    padding:20px 40px;
+    text-align: center;
+    font-size: 36px;
+}
+
+.total_amount{
+    color: #ff9900;
+}

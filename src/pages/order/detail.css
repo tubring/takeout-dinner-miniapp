@@ -1,0 +1,17 @@
+.detail_container{
+    
+    
+}
+
+.order_header{
+    background-color: white;
+    margin-bottom: 24px;
+    padding: 20px 30px;
+    font-size: 30px;
+}
+
+.order_title{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

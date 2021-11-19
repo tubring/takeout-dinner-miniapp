@@ -1,0 +1,25 @@
+{
+  "name": "takeout-miniapp",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Takeout app ",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Martin Hwang",
+  "license": "MIT",
+  "scripts": {
+    "dev": "remax build -w -t",
+    "build": "cross-env NODE_ENV=production remax build -t"
+  },
+  "dependencies": {
+    "annar": "^2.2.1",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-redux": "^6.0.1",
+    "redux": "^4.1.2",
+    "remax": "^2.9.1"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.2"
+  }
+}

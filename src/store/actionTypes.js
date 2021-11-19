@@ -1,0 +1,8 @@
+export const CART_INCREAMENT = 'cart/increament'
+export const CART_DEREAMENT = 'cart/decreament'
+export const CART_REMOVE = 'cart/remove'
+export const CART_CLEAR_ALL = 'cart/clear_all'
+export const CART_CHANGE_QTY = 'cart/change_qty'
+export const SELECT_ADDRESS = 'select_address'
+export const SELECT_TABLE = 'select_table'
+export const SET_MERCHANT_INFO = 'set_merchant_info'

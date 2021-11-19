@@ -1,0 +1,21 @@
+page {
+  background: #ccc;
+}
+
+
+.block{
+  margin-top: 24px;
+}
+
+.row{
+  display:flex;
+  flex-direction: row;
+}
+
+.justify-between{
+  justify-content: space-between;
+}
+
+.hidden{
+  display: none;
+}

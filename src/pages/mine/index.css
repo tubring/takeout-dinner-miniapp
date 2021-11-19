@@ -1,0 +1,20 @@
+.header{
+    background-color: #0099ff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.user_info{
+    width:100%;
+}
+
+.avatar{
+    width: 120px;
+    height: 120px;
+    margin:20px 290px;
+    border-radius: 10px;
+}
+
+.nickname{
+    color:white;
+}

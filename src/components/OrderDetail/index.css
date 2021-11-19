@@ -1,0 +1,46 @@
+.order_detail{
+    background-color: white;
+    padding: 30px;
+    font-size: 30px;
+}
+
+.menu_image{
+    width: 100px;
+    height: 100px;
+    background-color: burlywood;
+}
+
+.menu_image image{
+    width: 100px;
+    height: 100px;
+}
+
+.menu_item{
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid #ccc;
+    padding: 20px 0;
+}
+
+.menu_detail{
+    padding:20px;
+}
+
+.menu_info{
+    width:580px;
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+    justify-content: space-between;
+}
+
+.order_row{
+    display: flex;
+    flex-direction: row; 
+    padding: 20px 0;
+}
+
+.delivery_info{
+    padding:20px;
+    border-bottom: 1px solid #ccc;
+}

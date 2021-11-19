@@ -1,0 +1,38 @@
+.header{
+    margin: 24px 0;
+    height: 300px;
+    position: relative;
+}
+
+.store_image{
+    background-color: #ffab02;
+    border-radius: 10px;
+    height: 250px;
+}
+
+.store_image image{
+    width: 100%;
+    height: 100%;
+}
+
+.address{
+    padding: 5px;
+    text-align: left;
+}
+
+.logo{
+    background-color: #6060ff;
+    width: 100px;
+    height: 100px;
+    position:absolute;
+    right: 50px;
+    top: 225px;
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+}
+
+.logo image{
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 10px;
+}

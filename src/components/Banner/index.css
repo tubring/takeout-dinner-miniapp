@@ -1,0 +1,15 @@
+.banners{
+    margin-top: 20px; 
+    width:100%;
+}
+
+.banner_item{
+    width: 100%;
+    background-color: blue;
+}
+
+.banner_image{
+    margin: auto;
+    height:100%;
+    width:100%;
+}

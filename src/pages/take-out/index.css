@@ -1,0 +1,26 @@
+.app{
+  margin: 24px;
+}
+
+.header{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.table_info{
+  display:flex;
+  flex-direction: row;
+}
+
+.table_icon{
+  width: 75px;
+  height: 75px;
+}
+
+.scan_info{
+  display: flex;
+  flex-direction: row;
+}

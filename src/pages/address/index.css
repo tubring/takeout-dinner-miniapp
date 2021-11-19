@@ -1,0 +1,30 @@
+.address_container{
+    margin-bottom: 40px;
+}
+
+.address_list{
+    border-bottom: 1px solid #ccc;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding:16px;
+    width:100%;
+}
+
+.icon{
+    width: 20%;
+    text-align: right;
+}
+
+.info{
+    width: 60%;
+    font-size: 30px;
+}
+
+.btn_add{
+    position:fixed;
+    bottom:0;
+    text-align:center;
+    width:100%;
+}

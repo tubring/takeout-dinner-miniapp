@@ -1,0 +1,62 @@
+
+.comments{
+    background-color: white;
+    border-radius: 10px;
+}
+
+.comment_list{
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px dotted #ccc;
+}
+
+.avatar{
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+}
+
+.avatar image{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.image_list{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.review_image{
+    margin: 10px 15px 10px 0;
+    width: 100px;
+    height:100px;
+}
+
+.review_image  image{
+    width: 100%;
+    height: 100%;
+}
+
+.content{
+    width: 100%;
+}
+
+.content_header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.user_title{
+    padding:0 20px;
+    font-size: 24px;
+}
+
+.content_body{
+    font-size: 32px;
+    padding: 20px;
+}

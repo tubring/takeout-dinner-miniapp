@@ -1,0 +1,35 @@
+.container{
+    padding-bottom: 200px;
+}
+
+
+.confirm{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color:#0099ff;
+    padding:20px 40px;
+    position: fixed;
+    bottom: 0;
+    width:100%;
+}
+
+.confirm_left{
+    text-align: center;
+    line-height: 40px;
+    font-size: 36px;
+}
+
+.total_amount_txt{
+    color: #ff9900;
+}
+
+.button_group{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.button_group button{
+    margin: 10px;
+}

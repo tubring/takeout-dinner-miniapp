@@ -1,0 +1,29 @@
+
+.coupon_item{
+    margin-top: 16px;
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    font-size: 24px;
+    padding: 20px 10px;
+}
+
+.coupon_info{
+    width:40%;
+    text-align: center;
+    border-right: 1px dotted #ccc;
+}
+
+.coupon_value{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.coupon_detail{
+    padding: 0 20px;
+}
+
+.coupon_use{
+    line-height: 50px;
+    font-weight: bold;
+}

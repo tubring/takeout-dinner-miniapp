@@ -1,0 +1,60 @@
+.order_container{
+    background-color:white;
+    justify-content: space-between;
+}
+
+.order_item{
+    padding:20px 0;
+    background-color: white;
+    border-bottom: 1px solid #ccc;
+
+}
+
+.order_title{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding:10px;
+}
+
+.order_detail{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding:10px;
+    align-items: baseline;
+}
+
+.menu_list{
+    display:flex;
+    flex-direction: row;
+}
+
+.menu_item{
+    padding: 10px;
+}
+
+.menu_item image{
+    width:100px;
+    height:100px;
+}
+
+.order_info{
+    color:gray;
+}
+
+.amount{
+    color:red;
+}
+
+.btn_group{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    width: 100%;
+    padding-right:20px;
+}
+
+.btn_item{
+    margin-left:10px;
+}
